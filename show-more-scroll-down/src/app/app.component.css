@@ -1,0 +1,8 @@
+p {
+  font-family: Lato;
+}
+
+.redTxt {
+  color: #f00;
+  cursor: pointer;
+}

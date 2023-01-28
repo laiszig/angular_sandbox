@@ -1,0 +1,8 @@
+<p class="clearfix">
+  <span class="collapsable float-left">
+    {{ info.length > firstCount ? (info | slice : 0 : counter) + ".." : info }}
+    <span class="redTxt" *ngIf="info.length > 100" (click)="toggleSkil()">
+      {{ showTxt }}
+    </span>
+  </span>
+</p>
