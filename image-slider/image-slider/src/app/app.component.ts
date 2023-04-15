@@ -9,23 +9,23 @@ export class AppComponent {
   title = 'image-slider';
 
   imageSize: any = {
-    width: 500, height: 200, space: 3
+    width: 300, height: 428, space: 3
   }
 
   imageObject: Array<object> = [
     {
-      image: 'https://loremflickr.com/g/600/400/paris',
-      thumbImage: 'https://loremflickr.com/g/1200/800/paris',
+      image: 'https://images.justwatch.com/poster/8668157/s592/matrix.webp',
+      thumbImage: 'https://images.justwatch.com/poster/8668157/s592/matrix.webp',
       alt: 'Image 1',
       title: 'Image 1'
     }, {
-      image: 'https://loremflickr.com/600/400/brazil,rio',
-      thumbImage: 'https://loremflickr.com/1200/800/brazil,rio',
+      image: 'https://images.justwatch.com/poster/8698860/s592/the-godfather-part-i.webp',
+      thumbImage: 'https://images.justwatch.com/poster/8698860/s592/the-godfather-part-i.webp',
       title: 'Image 2',
       alt: 'Image 2'
     }, {
-      image: 'https://loremflickr.com/600/400/paris,girl/all',
-      thumbImage: 'https://loremflickr.com/1200/800/brazil,rio',
+      image: '	https://images.justwatch.com/poster/181049289/s592/forrest-gump.webp',
+      thumbImage: '	https://images.justwatch.com/poster/181049289/s592/forrest-gump.webp',
       title: 'Image 3',
       alt: 'Image 3'
     }, {
