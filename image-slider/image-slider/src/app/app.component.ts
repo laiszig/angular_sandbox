@@ -16,43 +16,38 @@ export class AppComponent {
     {
       image: 'https://images.justwatch.com/poster/8668157/s592/matrix.webp',
       thumbImage: 'https://images.justwatch.com/poster/8668157/s592/matrix.webp',
-      alt: 'Image 1',
-      title: 'Image 1'
+      alt: 'The Matrix',
+      //title: 'Image 1'
     }, {
       image: 'https://images.justwatch.com/poster/8698860/s592/the-godfather-part-i.webp',
       thumbImage: 'https://images.justwatch.com/poster/8698860/s592/the-godfather-part-i.webp',
-      title: 'Image 2',
-      alt: 'Image 2'
+      //title: 'Image 2',
+      alt: 'The Godfather'
     }, {
       image: '	https://images.justwatch.com/poster/181049289/s592/forrest-gump.webp',
       thumbImage: '	https://images.justwatch.com/poster/181049289/s592/forrest-gump.webp',
-      title: 'Image 3',
-      alt: 'Image 3'
+      //title: 'Image 3',
+      alt: 'Forest Gump'
     }, {
-      image: 'https://loremflickr.com/600/400/brazil,rio',
-      thumbImage: 'https://loremflickr.com/1200/800/brazil,rio',
-      title: 'Image 4',
-      alt: 'Image 4'
+      image: 'https://images.justwatch.com/poster/8652078/s592/the-shawshank-redemption.webp',
+      thumbImage: 'https://images.justwatch.com/poster/8652078/s592/the-shawshank-redemption.webp',
+      //title: 'Image 4',
+      alt: 'The Shawshank Redemption'
     }, {
-      image: 'https://loremflickr.com/600/400/paris,girl/all',
-      thumbImage: 'https://loremflickr.com/1200/800/paris,girl/all',
-      title: 'Image 5',
-      alt: 'Image 5'
+      image: 'https://images.justwatch.com/poster/8695539/s592/batman-the-dark-knight.webp',
+      thumbImage: 'https://images.justwatch.com/poster/8695539/s592/batman-the-dark-knight.webp',
+      //title: 'Image 5',
+      alt: 'The Dark Knight'
     }, {
-      image: 'https://loremflickr.com/600/400/brazil,rio',
-      thumbImage: 'https://i.picsum.photos/id/609/400/350.jpg',
-      title: 'Image 6',
-      alt: 'Image 6'
+      image: 'https://images.justwatch.com/poster/45534539/s592/star-wars-episode-iv-a-new-hope.webp',
+      thumbImage: 'https://images.justwatch.com/poster/45534539/s592/star-wars-episode-iv-a-new-hope.webp',
+      //title: 'Image 6',
+      alt: 'A New Hope'
     }, {
-      image: 'https://loremflickr.com/600/400/brazil,rio',
-      thumbImage: 'https://i.picsum.photos/id/609/400/350.jpg',
-      title: 'Image 7',
-      alt: 'Image 7'
-    }, {
-      image: 'https://loremflickr.com/600/400/brazil,rio',
-      thumbImage: 'https://i.picsum.photos/id/609/400/350.jpg',
-      title: 'Image 8',
-      alt: 'Image 8'
+      image: '	https://images.justwatch.com/poster/304338085/s592/the-silence-of-the-lambs.webp',
+      thumbImage: '	https://images.justwatch.com/poster/304338085/s592/the-silence-of-the-lambs.webp',
+      //title: 'Image 7',
+      alt: 'The Silence of the Lambs'
     }
 ];
 
