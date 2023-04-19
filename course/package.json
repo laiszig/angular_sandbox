@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "typescript": "^4.9.4"
+  },
+  "name": "laisz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laiszig",
+  "license": "ISC",
+  "description": ""
+}
