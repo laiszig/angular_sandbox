@@ -8,7 +8,7 @@
 
 The intent of this repository is to create all kinds of Angular projects and code using as many concepts and tools as possible.
 
-Java Documentation - https://angular.io/docs
+Angular Documentation - https://angular.io/docs
 
 ## Topics covered so far
 * scroll down
